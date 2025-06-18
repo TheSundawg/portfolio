@@ -1,4 +1,4 @@
-##### Link to Original File: [README.md](README.md)
+##### Link to Original File: [README.md](https://github.com/TheSundawg/minecraftmaps/blob/main/README.md)
 
 # About
 This repository is primarily for users to download custom maps for Minecraft.
